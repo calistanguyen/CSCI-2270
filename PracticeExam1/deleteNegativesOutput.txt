@@ -1,0 +1,20 @@
+///TEST CASE 1///
+Linked List before deletion: 
+-5 -> NULL
+Linked List after deletion: 
+NULL
+Successfully deleted
+
+///TEST CASE 2///
+Linked List before deletion: 
+-1 -> 2 -> -3 -> 4 -> NULL
+Linked List after deletion: 
+2 -> 4 -> NULL
+Successfully deleted all negatives!
+
+///TEST CASE 3///
+Linked List before deletion: 
+1 -> 2 -> 3 -> NULL
+Linked List after deletion: 
+1 -> 2 -> 3 -> NULL
+Nothing deleted!
